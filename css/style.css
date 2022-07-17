@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap');
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: rgb(170, 170, 170);
+    text-underline-offset: 0.5em;
+    transition: all 300ms ease-in;
+}
+
+a:hover {
+    text-decoration: none;
+    border: 1px solid rgb(170, 170, 170);
+    padding: 0.5em;
+    color: rgb(170, 170, 170);
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -12rem;
+    position: relative;
+    box-shadow: inset 0 0 20rem black;
+
+    font-family: 'Poppins', cursive;
+}
+
+.wrapper {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.wrapper-products {
+    background-color: rgba(0, 0, 0, 0.2);
+    min-height: 100vh;
+}
+
+.fw-extra-light {
+    font-weight: 200;
+}
+
+.letter-space-1 {
+    letter-spacing: 8px;
+}
+
+.product {
+    border: 1px solid rgba(102, 102, 102, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.product:nth-child(1),
+.product:nth-child(2),
+.product:nth-child(3),
+.product:nth-child(4) {
+    margin-bottom: 1.5rem;
+}
+
+.product-img {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgba(102, 102, 102, 0.1);
+}
+
+.product-details {
+    width: 100%;
+}
