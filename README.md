@@ -9,10 +9,10 @@ I designed a basic two-page website that contains a simple homepage and products
 
 Homepage:
 
-![Homepage](./preview/homepage.PNG)
+![Homepage](./img//preview/homepage.PNG)
 
 Products Page:
 
-![Products Page](./preview/product-page.PNG)
+![Products Page](./img/preview/product-page.PNG)
 
 to be continued...
