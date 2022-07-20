@@ -23,6 +23,6 @@ I re-edited the [project](https://drive.google.com/drive/folders/1hRWmpYpuax4Aqs
 
 It looks like this:
 
-![Homepage](./Task-2/Instagram-Clone/preview/homepage.webm)
+![Homepage](./Task-2/Instagram-Clone/preview/homepage.gif)
 
 to be continued...
