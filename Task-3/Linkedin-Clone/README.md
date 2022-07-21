@@ -6,8 +6,8 @@ I re-edited the [project](https://drive.google.com/drive/folders/1lfKEULLlx_4jUt
 
 It used to look like this:
 
-![OldVersion](./Task-3/Linkedin-Clone/preview/garibanlinkedin.gif)
+![OldVersion](./preview/garibanlinkedin.gif)
 
 INow, it looks like this:
 
-![Homepage](./Task-3/Linkedin-Clone/preview/linkedin.gif)
+![Homepage](./preview/linkedin.gif)
